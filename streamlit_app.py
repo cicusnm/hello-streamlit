@@ -6,3 +6,4 @@ import altair as alt
 # Page title
 st.set_page_config(page_title='Interactive Data Explorer', page_icon='📊')
 st.title('📊 Interactive Data Explorer')
+#inter
